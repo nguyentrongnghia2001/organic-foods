@@ -1,5 +1,5 @@
 <template>
-  <h2>hello about</h2>
+  <PageAboutHero></PageAboutHero>
 </template>
 <script lang="ts" setup>
 

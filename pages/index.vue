@@ -1,5 +1,5 @@
 <template>
-  <h2>hello nuxt 3</h2>
+  <PageHomeHero></PageHomeHero>
 </template>
 <script lang="ts" setup>
 
