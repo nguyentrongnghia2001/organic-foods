@@ -1,19 +1,19 @@
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--heading-font);
-  color: var(--bs-dark);
+  color: var(--color-dark);
   font-weight: 700;
+  line-height: 1.2;
 }
-
+.post-title,
 .section-title {
-  font-weight: 700;
-  font-size: 28px;
+  font-size: 32px;
   line-height: 1.2;
 }
 
-.category-title {
-
+.banner-title {
+  font-size: 28px;
+  line-height: 1.2;
 }
-
-.post-title {
-
+.category-title {
+  font-size: 16px;
+  line-height: 1.2;
 }
