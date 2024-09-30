@@ -1,5 +1,6 @@
 <template>
   <PageHomeHero></PageHomeHero>
+  <PageHomeCategory></PageHomeCategory>
 </template>
 <script lang="ts" setup>
 
